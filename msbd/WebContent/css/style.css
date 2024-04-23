@@ -28,6 +28,8 @@ body {
 }
 
 
+
+
 h1 {
     width: 94%;
     padding-top: 17px;
@@ -82,4 +84,14 @@ button {
 
 #footer {
     text-align: center;
+}
+
+#flush_error {
+    width: 100%;
+    padding-top: 28px;
+    padding-left: 2%;
+    padding-bottom: 28px;
+    margin-bottom: 15px;
+    color: #721c24;
+    background-color: #f8d7da;
 }
